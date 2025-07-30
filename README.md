@@ -5,7 +5,7 @@
 ---
 
  ## 🔧 Skills
-- **Languages:** C, C#, Java
+- **Languages:** C, C++, C#, Java
 - **Tools:** CMake, Git
 - **Other:** FreeRTOS, Linux, Unity
 
