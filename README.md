@@ -1,17 +1,19 @@
 # 👋 Hi, I’m @Jahper (Jasper)
 
- **Student Technische Informatica | Software developer**
+ **Student Technische Informatica**
 
 ---
 
  ## 🔧 Skills
 - **Languages:** C, C++, C#, Java
-- **Tools:** CMake, Git
+- **Tools:** CMake, Git, OpenCV
 - **Other:** FreeRTOS, Linux, Unity
 
 ---
 
-## 📂 Projects
+## 📂 School Projects
+
+🔹 **[TIron](https://github.com/LeonBuijs/TIron)** - Een 3D Tron-game waarbij OpenCV gebruikt is om de game aan te sturen.
 
 🔹 **[Smart Speaker]** - Een smart speaker applicatie gebaseerd op de ESP32 LyraT gemaakt met ESP IDF en ADF.
 
@@ -22,10 +24,6 @@
 🔹 **[Mobiele Beleving](https://github.com/LeonBuijs/Mobiele-Beleving)** - Een interactieve attractie met een mobiele app.
 
 🔹 **[Festival Planner](https://github.com/Jahper/FestivalPlanner)** - Een simulatie van bezoekers op een festivalterrein. 
-
-🔹 **[Automatisch Geleid Voertuig]** - Een zelfrijdende robot met meerdere sensoren  
-
-🔹 **[Weerstation]** - Het eerste project van de opleiding, een simpele applicatie die data uit een weerstation tonen kon.  
 
 <!---
 Jahper/Jahper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
