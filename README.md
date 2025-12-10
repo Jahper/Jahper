@@ -10,13 +10,9 @@
 
 ---
 
-## 📂 School Projects
+## 📂 Some School Projects
 
 🔹 **[TIron](https://github.com/LeonBuijs/TIron)** - A 3D Tron-game where OpenCV is used to process player movements for controlling the game.
-
-🔹 **[Smart Speaker]** - A smart speaker application based op a ESP32 LyraT board, developed with ESP IDF and ESP ADF.
-
-🔹 **[Mobile System]** - A .NET MAUI route app.
 
 🔹 **[Remote Healthcare](https://github.com/LeonBuijs/Remote_Healthcare)** - A remote condition testing application.
 
