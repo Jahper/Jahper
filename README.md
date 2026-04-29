@@ -6,7 +6,7 @@
 ---
 
  ## 🔧 Skills
-<p align="left"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <img src="https://skillicons.dev/icons?i=cmake" alt="cmake" width="40" height="40"/> </a></p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,unity,docker,opencv,cmake)](https://skillicons.dev)
 
 ---
 
