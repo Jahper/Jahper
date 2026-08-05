@@ -12,6 +12,8 @@
 
 ## 📂 Some School Projects
 
+🔹 **[AEWD](https://github.com/Jahper/AEWD)** - A project using ROS2 and nav2 to autonomously navigate with GPS data.
+
 🔹 **[TIron](https://github.com/LeonBuijs/TIron)** - A 3D Tron-game where OpenCV is used to process player movements for controlling the game.
 
 🔹 **[Remote Healthcare](https://github.com/LeonBuijs/Remote_Healthcare)** - A remote condition testing application.
